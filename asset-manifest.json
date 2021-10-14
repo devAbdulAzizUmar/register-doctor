@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/register-doctor/static/css/main.29b1099a.chunk.css",
+    "main.js": "/register-doctor/static/js/main.33f9d0ef.chunk.js",
+    "main.js.map": "/register-doctor/static/js/main.33f9d0ef.chunk.js.map",
+    "runtime-main.js": "/register-doctor/static/js/runtime-main.992300c0.js",
+    "runtime-main.js.map": "/register-doctor/static/js/runtime-main.992300c0.js.map",
+    "static/css/2.0adf0f69.chunk.css": "/register-doctor/static/css/2.0adf0f69.chunk.css",
+    "static/js/2.b606c6ba.chunk.js": "/register-doctor/static/js/2.b606c6ba.chunk.js",
+    "static/js/2.b606c6ba.chunk.js.map": "/register-doctor/static/js/2.b606c6ba.chunk.js.map",
+    "static/js/3.fe3d4204.chunk.js": "/register-doctor/static/js/3.fe3d4204.chunk.js",
+    "static/js/3.fe3d4204.chunk.js.map": "/register-doctor/static/js/3.fe3d4204.chunk.js.map",
+    "index.html": "/register-doctor/index.html",
+    "static/css/2.0adf0f69.chunk.css.map": "/register-doctor/static/css/2.0adf0f69.chunk.css.map",
+    "static/css/main.29b1099a.chunk.css.map": "/register-doctor/static/css/main.29b1099a.chunk.css.map",
+    "static/js/2.b606c6ba.chunk.js.LICENSE.txt": "/register-doctor/static/js/2.b606c6ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.992300c0.js",
+    "static/css/2.0adf0f69.chunk.css",
+    "static/js/2.b606c6ba.chunk.js",
+    "static/css/main.29b1099a.chunk.css",
+    "static/js/main.33f9d0ef.chunk.js"
+  ]
+}
